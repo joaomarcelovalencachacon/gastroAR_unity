@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="prato1" size="50.000000 37.500000" />
+    <ImageTarget name="livro-capa-dura" size="50.000000 50.000000" />
+  </Tracking>
+</QCARConfig>
